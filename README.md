@@ -1,4 +1,4 @@
-AppleWatchSimulateur
+Apple Watch Simulateur
 ====================
 ![alt tag](https://raw.github.com/Jean-PhilippeDESCAMPS/AppleWatchSimulateur/master/simulatorscreen.png)
 
