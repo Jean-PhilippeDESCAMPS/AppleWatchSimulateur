@@ -8,7 +8,8 @@ Je crée ce projet pour vous permettre de créer et de tester votre prototype po
 
 ##### 日本語
 
-私は、あなたが作成し、Apple Watch(ウォッチ)のためのあなたのプロトタイプをテストしてみましょうするためにこのプロジェクトを作成します。これは、iPhoneやiPad上で実行することができます。
+私はこのプロジェクトを、アップルウォッチ用プロトタイプの作成、及びテストのために開発しました。
+iphone及びiPad にて動作します。
 
 ##### English
 
