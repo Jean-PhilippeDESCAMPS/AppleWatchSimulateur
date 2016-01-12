@@ -1,6 +1,6 @@
 Apple Watch Simulateur
 ====================
-!(https://raw.github.com/Jean-PhilippeDESCAMPS/AppleWatchSimulateur/master/simulatorscreen.png)
+![alt tag](https://raw.github.com/Jean-PhilippeDESCAMPS/AppleWatchSimulateur/master/simulatorscreen.png)
 
 ##### Français
 
